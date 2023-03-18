@@ -1,0 +1,8 @@
+site_name: feminis.me
+site_url: http://feminis.me
+repo_url: https://github.com/feminisme/feminis.me
+site_author: You
+theme:
+  name: readthedocs
+  nav_style: dark
+  locale: fr
