@@ -2,7 +2,7 @@
 
 ## Pourquoi ce site ?
 
-Il m'a semblé qu'il pourrait être intéressant de proposer un espace/blog **relativement** facile d'accès, où il serait possible à qui le souhaiterait, de contribuer autour des sujets liés au féminisme.
+Il m'a semblé qu'il pourrait être intéressant de proposer un espace/blog **relativement** facile d'accès, où il serait possible à qui le souhaiterait, de contribuer autour des sujets liés au(x) féminisme(s).
 
 ## Comment contribuer ?
 
